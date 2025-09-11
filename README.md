@@ -1,4 +1,4 @@
 # chemistry-demo
 this is my first repository
 <br>
-author -k vishwakarma
+author (karan vishwakarma)
